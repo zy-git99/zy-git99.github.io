@@ -1,16 +1,16 @@
 ---
 layout: page
 title: 简历
-subtitle: An awesome person
+subtitle: 一个了不起的银
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>>以PDF格式下载</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+### 技能
+``` 项目名称：艾默特艾默特酒店，康赛特酒店。摩比赛德·波特蒂托。在比本杜姆托尔托，我是乌尔维纳。赛德·康格·温迪是非射手座的人。在叶状叶状体中。我要的是尼斯。Donec nec dapibus直径。我是尤伊斯莫德尼西。  ```  
 
-### PROJECTS
+### 项目
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 

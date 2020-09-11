@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>一个简单的，个人网页博客，专注于空白和可读性。</p>
-	<p>绿色家园一家亲<strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>绿色家园一家亲<strong> <a href="https://github.com/knhash/Pudhina"> happy!!!</a> </strong></p>
 </div>
